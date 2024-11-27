@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 requires-python = ">= 3.7"
 name = "pytlx"
-version = "0.1.0"
+version = "0.1.1"
 description = "Download leveraged token data from TLX Fi."
 readme = "README.md"
 keywords = ["leverage", "toros", "crypto"]
