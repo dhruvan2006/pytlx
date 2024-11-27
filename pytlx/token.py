@@ -116,7 +116,7 @@ class Token:
         """
         validate_date_format(start)
 
-        address = self.get_contract_address()()
+        address = self.get_contract_address()
         if address is None:
             raise ValueError(f"Invalid ticker '{self.ticker}'")
 
