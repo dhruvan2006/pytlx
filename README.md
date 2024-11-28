@@ -2,8 +2,9 @@
 
 Download leveraged token data from [TLX Fi](https://tlx.fi)
 
-[![codecov](https://codecov.io/gh/dhruvan2006/pytlx/graph/badge.svg?token=GVWV3STI3C)](https://codecov.io/gh/dhruvan2006/pytlx)
 [![PyPI Version](https://img.shields.io/pypi/v/pytlx)](https://github.com/dhruvan2006/pytlx)
+[![codecov](https://codecov.io/gh/dhruvan2006/pytlx/graph/badge.svg?token=GVWV3STI3C)](https://codecov.io/gh/dhruvan2006/pytlx)
+[![Monthly Downloads](https://img.shields.io/pypi/dm/pytlx)](https://github.com/dhruvan2006/pytlx)
 [![License](https://img.shields.io/github/license/dhruvan2006/pytlx)](https://github.com/dhruvan2006/pytlx)
 
 ## Installation
